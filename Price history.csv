@@ -1,4 +1,4 @@
-Firm,Date,Price,CVol,Change,% Change,% Return,Total Return (Gross),Cumulative Return %,Open,High,Low,Cumulative Change %
+﻿Firm,Date,Price,CVol,Change,% Change,% Return,Total Return (Gross),Cumulative Return %,Open,High,Low,Cumulative Change %
 ANN,10/29/20,40.32,327584,3.22,8.679245283,8.679250224,42.245045,82.2478214,40.24,41.47,40.32,73.94305436
 ANN,09/30/20,37.1,14101656,-1.58,-4.084798345,-4.084803751,38.871307,67.69330026,37.69,39,35.34,60.05176877
 ANN,08/31/20,38.68,12725970,0.23,0.598179454,1.589337803,40.526745,74.83496549,38.91,41.79,38.11,66.86798965
